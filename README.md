@@ -78,13 +78,3 @@ O processamento de cada imagem segue as seguintes etapas:
 
 
 ![image](https://github.com/user-attachments/assets/6b1c7175-6035-43fc-baac-73ea79228d45)
-
-
-
-- `[NOME]_intermediarias.png`: Mostra todas as etapas intermediárias do processamento
-- `[NOME]_final.png`: Mostra o resultado final em tamanho grande
-
-Além disso, são gerados arquivos de relatório que comparam os resultados:
-
-- `resultados_finais.png`: Comparação dos resultados finais das três imagens
-- `relatorio_etapas_parte1.png` e `relatorio_etapas_parte2.png`: Relatório detalhado de todas as etapas
