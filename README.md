@@ -57,7 +57,29 @@ O processamento de cada imagem segue as seguintes etapas:
 
 ## Resultados
 
-Para cada imagem processada, são gerados os seguintes arquivos:
+
+![image](https://github.com/user-attachments/assets/f4752ef8-a699-47ce-b139-c9192c148af3)
+
+![image](https://github.com/user-attachments/assets/a017a871-c315-4ff9-a4a2-ecd8352e4152)
+
+![image](https://github.com/user-attachments/assets/7e7eb76c-03f2-45cb-bee4-ef250b012422)
+
+![image](https://github.com/user-attachments/assets/da2d2c2a-f04d-4012-b3ef-92ecefbcb64f)
+
+![image](https://github.com/user-attachments/assets/3c4afb98-5e1d-4b39-9acd-d53bddf5654a)
+
+![image](https://github.com/user-attachments/assets/39a2caa8-3eba-4b41-a8a5-3eff2cf3d559)
+
+
+![image](https://github.com/user-attachments/assets/bc79d5f5-d8a2-4eed-90f3-8d892ebaf099)
+
+
+![image](https://github.com/user-attachments/assets/0cc3145a-9110-4b8c-b00e-eed817f0db97)
+
+
+![image](https://github.com/user-attachments/assets/6b1c7175-6035-43fc-baac-73ea79228d45)
+
+
 
 - `[NOME]_intermediarias.png`: Mostra todas as etapas intermediárias do processamento
 - `[NOME]_final.png`: Mostra o resultado final em tamanho grande
