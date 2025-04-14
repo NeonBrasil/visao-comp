@@ -66,7 +66,3 @@ Além disso, são gerados arquivos de relatório que comparam os resultados:
 
 - `resultados_finais.png`: Comparação dos resultados finais das três imagens
 - `relatorio_etapas_parte1.png` e `relatorio_etapas_parte2.png`: Relatório detalhado de todas as etapas
-
-## Código Fonte
-
-O código fonte completo está disponível em: [https://github.com/seu-usuario/visao-computacional-processamento](https://github.com/seu-usuario/visao-computacional-processamento)
