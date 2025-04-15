@@ -1,5 +1,12 @@
 # Processamento de Imagens - Visão Computacional
 
+## Membros
+* Cayque Cicarelli - 22.221.005-6
+
+* Bruna Paz - 22.121.020-6
+
+* Matheus Miranda - 22.22.0017-2
+
 Este projeto contém scripts para processamento de imagens utilizando técnicas de visão computacional. O objetivo é aplicar diferentes técnicas de processamento em três imagens: GIRAFA.jpeg, AVIAO.jpeg e SATELITE.jpeg.
 
 ## Requisitos
